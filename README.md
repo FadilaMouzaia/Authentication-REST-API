@@ -1,2 +1,2 @@
 # Authentification-app
-prject build with express and mongodb
+Authentication REST APIs with NodeJS, Express, JWT and mongodb
